@@ -47,7 +47,8 @@ python src/budget_tracker.py
 ---
 
 ## 📸 Demo
-![Demo](images/demo.png)
+
+<img width="759" height="459" alt="Screenshot 2025-08-30 145006" src="https://github.com/user-attachments/assets/17b3a487-775d-4b2a-9514-a3d9a2979650" />
 
 ---
 
